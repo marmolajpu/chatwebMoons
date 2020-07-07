@@ -15,7 +15,7 @@ socket.io
 ## Requirimientos
 
 * Docker 
-* Docker desktop dashboard https://docs.docker.com/docker-for-windows/install/  (recomendado)
+* Docker desktop dashboard https://docs.docker.com/get-docker/  (recomendado)
 
 ## Instalación
 
