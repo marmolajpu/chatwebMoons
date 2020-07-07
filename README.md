@@ -17,21 +17,21 @@ socket.io
 * Docker 
 * Docker desktop dashboard https://docs.docker.com/docker-for-windows/install/  (recomendado)
 
-## Instalacion
+## Instalación
 
 `git clone ...`
 
 Agregue un archivo .env en la carpeta raíz del proyecto con las siguientes variables:
 
 ```shell
-# Environment type
+#  Server Port
 APP_SERVER_PORT=5000
 
-# HTTP service
+# Client Port
 NEXT_APP_PORT=3000
 ```
 
-Despues:
+Después:
 
 ```shell
 $ make build
