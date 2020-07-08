@@ -22,7 +22,7 @@ services:
         ports:
             - ${NEXT_APP_PORT}:${NEXT_APP_PORT}
         volumes:
-            - ./client/components:/srv/app/client-chat/components
+            - ./client/components:/srv/app/client-chat/components/
             - ./client/pages:/svr/app/client-chat/pages
             - ./client/public:/svr/app/client-chat/public
             - ./client/styles:/svr/app/client-chat/styles

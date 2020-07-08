@@ -26,7 +26,10 @@
       "react-scripts": "3.0.1",
       "socket.io-client":"2.3.0",
       "query-string":"6.13.1",
-      "react-scroll-to-bottom":"3.0.0"
+      "react-scroll-to-bottom":"3.0.0",
+      "nivo":"0.31.0",
+      "@nivo/sunburst":"0.62.0 ",
+      "@nivo/pie":"latest"
     },
     "devDependencies": {}
   }

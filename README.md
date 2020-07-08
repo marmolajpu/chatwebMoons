@@ -1,6 +1,6 @@
 # 
 
-## Introduccion
+## Introducción
 Tecnología utilizada:
 ```shell
 Docker
@@ -40,3 +40,7 @@ $ make up
 
 Estos comandos descargarán las imágenes enumeradas en la configuración [docker-compose.yml] (./ docker-compose.yml) e instalarán los requisitos de los contenedores. El servicio de cliente estará disponible en localhost con el puerto definido en `NEXT_APP_PORT` y el servidor estara con el puerto definido en `APP_SERVER_PORT` o por la configuración predeterminada .
 
+
+Segundo ejercicio:
+Gráficas
+http://localhost:3000
